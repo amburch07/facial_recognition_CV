@@ -1,4 +1,4 @@
-# IoT Computer Vision Networking App
+# Facial Recognition Computer Vision App
 ---
 
 ## What
